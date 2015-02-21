@@ -1,0 +1,4 @@
+c:\users\lureen\documents\visual studio 2010\Projects\Database_Project1\Database_Project1\bin\Debug\Database_Project1.exe
+c:\users\lureen\documents\visual studio 2010\Projects\Database_Project1\Database_Project1\bin\Debug\Database_Project1.pdb
+c:\users\lureen\documents\visual studio 2010\Projects\Database_Project1\Database_Project1\obj\x86\Debug\Database_Project1.exe
+c:\users\lureen\documents\visual studio 2010\Projects\Database_Project1\Database_Project1\obj\x86\Debug\Database_Project1.pdb
